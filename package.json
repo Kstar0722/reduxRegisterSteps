@@ -98,7 +98,7 @@
     "graphql-tag": "^0.1.15",
     "jquery": "^2.2.1",
     "js-base64": "^2.1.9",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "moment": "^2.14.1",
     "prop-types": "^15.5.8",
     "react": "^15.5.0",
