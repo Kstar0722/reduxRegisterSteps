@@ -96,7 +96,7 @@
     "create-react-class": "^15.5.2",
     "font-awesome": "^4.5.0",
     "graphql-tag": "^0.1.15",
-    "jquery": "^2.2.1",
+    "jquery": "^3.5.0",
     "js-base64": "^2.1.9",
     "lodash": "^4.17.4",
     "moment": "^2.14.1",
