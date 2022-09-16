@@ -91,7 +91,7 @@
     "animate.css": "^3.5.1",
     "apollo-client": "^0.4.22",
     "babel-polyfill": "^6.7.4",
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^3.4.1",
     "classnames": "^2.2.3",
     "create-react-class": "^15.5.2",
     "font-awesome": "^4.5.0",
